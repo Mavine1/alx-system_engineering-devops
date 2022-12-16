@@ -1,1 +1,1 @@
-Showing  current directory 
+This is my project

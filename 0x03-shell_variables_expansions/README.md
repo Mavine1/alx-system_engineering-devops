@@ -1,2 +1,1 @@
- Shell, init files, variables and expansions
- 
+My project 2022
